@@ -1,0 +1,15 @@
+GEM
+  specs:
+    builder (3.2.3)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  builder
+
+RUBY VERSION
+   ruby 2.3.0p0
+
+BUNDLED WITH
+   1.16.1
